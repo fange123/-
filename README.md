@@ -1,4 +1,4 @@
-# BONC React Antd 前端框架（PC端、大屏）
+# 电商大屏
 ## Ant Design Pro （v4.5.0）
 
 https://pro.ant.design
